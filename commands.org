@@ -1,0 +1,3 @@
+* Commands for resizing images
+** Image modifications
+   convert -resize widthxheight !(f aspect ratio) src dest
